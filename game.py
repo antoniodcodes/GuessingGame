@@ -10,7 +10,8 @@ def greeting():
   """)
 
 def get_user_name():
-  pass
+  username = input("What's your name? ")
+  return username
 
 def main():
   pass
