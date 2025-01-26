@@ -12,3 +12,7 @@ User will be able to
 - enter guesses until they guess the correct number
 
 ### Enhancements ###
+- [] Users can play multiple rounds and track best scores
+- [] Program limits the number of guesses a user gets
+- [] User can set a range of numbers from a start number to an end number
+- [] Computer can try to guess the number a user sets, with the user providing hints indicating how close (high or low) the computer is to the user selected number
